@@ -1,0 +1,36 @@
+.characters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.card{
+  height: 450px;
+  width: 250px;
+  border: solid #24325fff 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  background-color: #E89242FF;
+}
+
+.characterImg{
+  height: 300px;
+  width: 250px;
+  border-radius: 15px;
+  margin-bottom: 35px;
+}
+
+.characterName{
+  font-size: 20px;
+  color: #24325fff;
+}
+
+.characterSpecie {
+  color: #24325fff;
+}

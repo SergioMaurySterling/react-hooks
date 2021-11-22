@@ -1,0 +1,39 @@
+.darkMode {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  height: 80px;
+  border-bottom: red 1px solid;
+  align-items: center;
+}
+
+.whiteMode {
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  height: 80px;
+  border-bottom: blanchedalmond 1px solid;
+  align-items: center;
+}
+
+.darkButton {
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+.whiteButton {
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
